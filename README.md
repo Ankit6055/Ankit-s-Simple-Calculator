@@ -12,4 +12,5 @@ Ankit's Simple Calculator is a web-based calculator project built using HTML, CS
 
 ## Demo
 
-You can try out the calculator live [https://ankit6055.github.io/Ankit-s-Simple-Calculator/](#).
+You can try out the calculator live <a href="https://ankit6055.github.io/Ankit-s-Simple-Calculator/">Here</a>.
+
